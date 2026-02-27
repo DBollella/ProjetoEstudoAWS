@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36811.4 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoEstudoAWS", "ProjetoEstudoAWS.csproj", "{6064BE14-693B-43F8-AC27-6BEA783834C8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoEstudoAWS.Api", "ProjetoEstudoAWS.Api\ProjetoEstudoAWS.Api.csproj", "{6064BE14-693B-43F8-AC27-6BEA783834C8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoEstudoAWS.Infra", "..\ProjetoEstudoAWS.Infra\ProjetoEstudoAWS.Infra.csproj", "{880D8DCB-57DA-4247-9A0B-C3B83805CDAC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoEstudoAWS.Infra", "ProjetoEstudoAWS.Infra\ProjetoEstudoAWS.Infra.csproj", "{880D8DCB-57DA-4247-9A0B-C3B83805CDAC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
